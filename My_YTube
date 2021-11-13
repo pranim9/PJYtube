@@ -5,16 +5,17 @@
 https://utube.psrutube.workers.dev/stream/UCDGiCfCZIV5phsoGiPwIcyQ/master.m3u8
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="", Polimer News
-https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/live/master.m3u8
+https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png" tvg-id="", News7 Tamil
 https://utube.psrutube.workers.dev/stream/UC2f4w_ppqHplvjiNaoTAK9w/master.m3u8
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", Puthiya Thalaimurai
-https://utube.psrutube.workers.dev/stream/PuthiyaThalaimuraiTV/master.m3u8
+https://utube.psrutube.workers.dev/stream/UCmyKnNRH0wH-r8I-ceP-dsg/master.m3u8
+
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="", Thanthi TV
-https://utube.psrutube.workers.dev/stream/ThanthitvNews/master.m3u8
+https://utube.psrutube.workers.dev/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="http://7starcloud.in/NB.png" tvg-id="", New18 TamilNadu
 https://utube.psrutube.workers.dev/stream/UCat88i6_rELqI_prwvjspRA/master.m3u8
